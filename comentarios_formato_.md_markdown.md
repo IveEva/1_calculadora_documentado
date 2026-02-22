@@ -6,6 +6,10 @@
 **Autor:** Documentación para estudiantes y desarrolladores  
 **Lenguajes:** HTML5, CSS3, JavaScript ES6
 
+Eva Pérez Pérez
+Actividad_05_ ED Claude Code IV - Documentación
+
+
 ---
 
 ## ÍNDICE
